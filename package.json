@@ -1,0 +1,25 @@
+{
+  "name": "typeReact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "@types/react": "^16.3.14",
+    "@types/react-dom": "^16.0.5",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "ts-loader": "^4.3.0",
+    "webpack": "^4.8.3"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.2.3",
+    "webpack-cli": "^2.1.4"
+  },
+  "scripts": {
+    "magic": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
